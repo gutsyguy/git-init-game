@@ -2,7 +2,7 @@ extends KinematicBody2D
 
 
 #movement variables
-export var movementSpeed:float = 4.7
+export var movementSpeed:float = 175
 var _velocity:= Vector2.ZERO
 
 #animations
@@ -18,15 +18,16 @@ func _ready():
 
 func _physics_process(delta:float) -> void:
 	var _horizontalDirection = (
-		Input.get_action_strength("move_left")
-		- Input.get_action_strength("move_right")
+		Input.get_action_strength("move_right")
+		- Input.get_action_strength("move_left")
 		)
 	var _verticalDirection = (
-		Input.get_action_strength("move_up")
-		- Input.get_action_strength("move_down")
+		Input.get_action_strength("move_down")
+		- Input.get_action_strength("move_up")
 		)	
 	_velocity.x = _horizontalDirection * movementSpeed
 	_velocity.y = _verticalDirection * movementSpeed
+	_velocity = move_and_slide(_velocity)
 	var isWalking := _velocity.x or _velocity.y > 0.1
 	animationCheck(_animator)
 # Called every frame. 'delta' is the elapsed time since the previous frame.
