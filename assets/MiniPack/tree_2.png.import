@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/tree_2.png-1683ef5da4f50e23494ecfaabbd629f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/MiniPack/tree_2.png"
+dest_files=[ "res://.import/tree_2.png-1683ef5da4f50e23494ecfaabbd629f0.stex" ]
 
 [params]
 

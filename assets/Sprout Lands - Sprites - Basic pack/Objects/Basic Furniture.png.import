@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/Basic Furniture.png-b81cd4899ba04fa03f1c65ff0e65569c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png"
+dest_files=[ "res://.import/Basic Furniture.png-b81cd4899ba04fa03f1c65ff0e65569c.stex" ]
 
 [params]
 

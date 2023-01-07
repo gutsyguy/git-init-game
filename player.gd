@@ -54,7 +54,7 @@ func animationCheck(_animator):
 		_animator.stop()
 	if Input.is_action_pressed("move_down"):
 		_animator.play("Walk")
-	elif Input.is_action_just_released("move_dow "):
+	elif Input.is_action_just_released("move_down"):
 		_animator.stop()
 
 

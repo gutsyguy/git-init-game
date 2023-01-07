@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/Tall Grass hill tiles v.2.png-41eaeb0ebc2cd5880f7d18fdbf2e03f5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/new tiles/Tall Grass hill tiles v.2.png"
+dest_files=[ "res://.import/Tall Grass hill tiles v.2.png-41eaeb0ebc2cd5880f7d18fdbf2e03f5.stex" ]
 
 [params]
 

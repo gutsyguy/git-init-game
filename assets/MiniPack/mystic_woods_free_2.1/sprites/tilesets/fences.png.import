@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/fences.png-c8f4850d1ff0026c63b3abeda7362861.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/MiniPack/mystic_woods_free_2.1/sprites/tilesets/fences.png"
+dest_files=[ "res://.import/fences.png-c8f4850d1ff0026c63b3abeda7362861.stex" ]
 
 [params]
 

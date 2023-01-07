@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/buildingForDog_blue.png-82e956818583730069cbce42c353fbde.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/MiniPack/buildingForDog_blue.png"
+dest_files=[ "res://.import/buildingForDog_blue.png-82e956818583730069cbce42c353fbde.stex" ]
 
 [params]
 

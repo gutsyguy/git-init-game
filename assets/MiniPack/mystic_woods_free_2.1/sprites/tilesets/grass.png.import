@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/grass.png-54b0e727f404d764be2b1b177b00f751.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/MiniPack/mystic_woods_free_2.1/sprites/tilesets/grass.png"
+dest_files=[ "res://.import/grass.png-54b0e727f404d764be2b1b177b00f751.stex" ]
 
 [params]
 

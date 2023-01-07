@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/Hills.png-55c1a53eb6c0fa4beb7307aba358d40c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/Sprout Lands - Sprites - Basic pack/Tilesets/ground tiles/old tiles/Hills.png"
+dest_files=[ "res://.import/Hills.png-55c1a53eb6c0fa4beb7307aba358d40c.stex" ]
 
 [params]
 

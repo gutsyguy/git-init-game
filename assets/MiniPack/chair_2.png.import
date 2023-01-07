@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/chair_2.png-773b3fbc8a4d83d1df95770b76cbdf57.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/MiniPack/chair_2.png"
+dest_files=[ "res://.import/chair_2.png-773b3fbc8a4d83d1df95770b76cbdf57.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/wooden_door_b.png-d4b031fbdc823012937bf476083753ff.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/mystic_woods_free_2.1/sprites/tilesets/walls/wooden_door_b.png"
+dest_files=[ "res://.import/wooden_door_b.png-d4b031fbdc823012937bf476083753ff.stex" ]
 
 [params]
 

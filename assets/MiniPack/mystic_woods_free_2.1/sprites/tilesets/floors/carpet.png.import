@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex"
+path="res://.import/carpet.png-c16a8abfb4bafa77ee0702d942c122fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Lo_bit_city_set.png"
-dest_files=[ "res://.import/Lo_bit_city_set.png-27e0eeeffca1b776567880804b1e9efe.stex" ]
+source_file="res://assets/MiniPack/mystic_woods_free_2.1/sprites/tilesets/floors/carpet.png"
+dest_files=[ "res://.import/carpet.png-c16a8abfb4bafa77ee0702d942c122fa.stex" ]
 
 [params]
 
