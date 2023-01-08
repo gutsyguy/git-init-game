@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Light switch onoff sound effect.mp3-f64b4689f82ed7e7fc0d5c1ab090128d.mp3str"
+
+[deps]
+
+source_file="res://Light switch onoff sound effect.mp3"
+dest_files=[ "res://.import/Light switch onoff sound effect.mp3-f64b4689f82ed7e7fc0d5c1ab090128d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
