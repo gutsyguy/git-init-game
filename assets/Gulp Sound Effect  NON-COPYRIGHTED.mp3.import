@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Gulp Sound Effect  NON-COPYRIGHTED.mp3-d65252b20ff8f8a891117c8d164d5ebd.mp3str"
+
+[deps]
+
+source_file="res://assets/Gulp Sound Effect  NON-COPYRIGHTED.mp3"
+dest_files=[ "res://.import/Gulp Sound Effect  NON-COPYRIGHTED.mp3-d65252b20ff8f8a891117c8d164d5ebd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

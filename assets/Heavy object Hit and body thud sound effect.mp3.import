@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Heavy object Hit and body thud sound effect.mp3-a2e2af265d2a38408dcf4e8369497b9b.mp3str"
+
+[deps]
+
+source_file="res://assets/Heavy object Hit and body thud sound effect.mp3"
+dest_files=[ "res://.import/Heavy object Hit and body thud sound effect.mp3-a2e2af265d2a38408dcf4e8369497b9b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
