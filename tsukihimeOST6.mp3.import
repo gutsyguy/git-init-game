@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tsukihimeOST6.mp3-2d0cac62849658374af0c58e12263d2d.mp3str"
+
+[deps]
+
+source_file="res://tsukihimeOST6.mp3"
+dest_files=[ "res://.import/tsukihimeOST6.mp3-2d0cac62849658374af0c58e12263d2d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

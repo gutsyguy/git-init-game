@@ -1,5 +1,6 @@
 extends Node
 
+var camera = null
 
 var at_fridge = false
 

@@ -1,0 +1,39 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://PTSD.tscn" type="PackedScene" id=1]
+[ext_resource path="res://shake.gd" type="Script" id=2]
+[ext_resource path="res://shaking.tscn" type="PackedScene" id=3]
+[ext_resource path="res://realPlayer.tscn" type="PackedScene" id=4]
+[ext_resource path="res://tsukihimeOST6.mp3" type="AudioStream" id=5]
+[ext_resource path="res://Firework.wav" type="AudioStream" id=6]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 346.25, 300.75 )
+
+[node name="shake" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="Park" parent="." instance=ExtResource( 1 )]
+position = Vector2( -3, 60 )
+
+[node name="realPlayer" parent="." instance=ExtResource( 4 )]
+position = Vector2( 34, 342 )
+
+[node name="Camera2D2" parent="realPlayer" instance=ExtResource( 3 )]
+
+[node name="shakeTrigger" type="Area2D" parent="."]
+position = Vector2( 389, 358 )
+scale = Vector2( -0.159998, 1 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="shakeTrigger"]
+shape = SubResource( 1 )
+
+[node name="AudioStreamPlayer1" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+autoplay = true
+
+[node name="AudioStreamPlayer2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 5 )
+autoplay = true
+
+[connection signal="area_entered" from="shakeTrigger" to="." method="_on_shakeTrigger_area_entered"]
