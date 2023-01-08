@@ -1,5 +1,5 @@
 extends KinematicBody2D
-
+const Global = preload("res://Global.gd")
 
 #movement variables
 export var movementSpeed:float = 75
@@ -33,7 +33,6 @@ func _process(delta):
 	pass
 
 func animationCheck(_animator):
-<<<<<<< HEAD
 	if Input.is_action_pressed("move_left"):
 		_animator.play("walk_left")
 	elif Input.is_action_just_released("move_left"):
@@ -52,20 +51,16 @@ func animationCheck(_animator):
 		_animator.stop()
 
 
-func animationInput():
-	if Input.is_action_pressed("move_left"):
-		isMovingLeft = true
-	if Input.is_action_pressed("move_right"):
-		isMovingRight = true
-	if Input.is_action_pressed("move_up"):
-		isMovingUp = true
-	if Input.is_action_pressed("move_down"):
-		isMovingDown = true
+#func animationInput():
+#	if Input.is_action_pressed("move_left"):
+#		isMovingLeft = true
+#	if Input.is_action_pressed("move_right"):
+#		isMovingRight = true
+#	if Input.is_action_pressed("move_up"):
+#		isMovingUp = true
+#	if Input.is_action_pressed("move_down"):
+#		isMovingDown = true
 
-	
-
-	
-=======
 	if !Global.is_cutscene:
 		if Input.is_action_pressed("move_left"):
 			_animator.play("walk_left")
@@ -75,5 +70,5 @@ func animationInput():
 			_animator.play("walk_back")
 		if Input.is_action_pressed("move_down"):
 			_animator.play("Walk")
->>>>>>> cf7732f583d053728c113f3e22f781312ed69564
+
 	
